@@ -1,0 +1,15 @@
+/Users/dungdang/c#/GeometryExample/GeometryExample/bin/Debug/net7.0/GeometryExample
+/Users/dungdang/c#/GeometryExample/GeometryExample/bin/Debug/net7.0/GeometryExample.deps.json
+/Users/dungdang/c#/GeometryExample/GeometryExample/bin/Debug/net7.0/GeometryExample.runtimeconfig.json
+/Users/dungdang/c#/GeometryExample/GeometryExample/bin/Debug/net7.0/GeometryExample.dll
+/Users/dungdang/c#/GeometryExample/GeometryExample/bin/Debug/net7.0/GeometryExample.pdb
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/GeometryExample.csproj.AssemblyReference.cache
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/GeometryExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/GeometryExample.AssemblyInfoInputs.cache
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/GeometryExample.AssemblyInfo.cs
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/GeometryExample.csproj.CoreCompileInputs.cache
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/GeometryExample.dll
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/refint/GeometryExample.dll
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/GeometryExample.pdb
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/GeometryExample.genruntimeconfig.cache
+/Users/dungdang/c#/GeometryExample/GeometryExample/obj/Debug/net7.0/ref/GeometryExample.dll

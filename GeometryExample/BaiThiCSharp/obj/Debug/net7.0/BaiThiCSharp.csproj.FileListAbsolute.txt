@@ -1,0 +1,15 @@
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/bin/Debug/net7.0/BaiThiCSharp
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/bin/Debug/net7.0/BaiThiCSharp.deps.json
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/bin/Debug/net7.0/BaiThiCSharp.runtimeconfig.json
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/bin/Debug/net7.0/BaiThiCSharp.dll
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/bin/Debug/net7.0/BaiThiCSharp.pdb
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/BaiThiCSharp.csproj.AssemblyReference.cache
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/BaiThiCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/BaiThiCSharp.AssemblyInfoInputs.cache
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/BaiThiCSharp.AssemblyInfo.cs
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/BaiThiCSharp.csproj.CoreCompileInputs.cache
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/BaiThiCSharp.dll
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/refint/BaiThiCSharp.dll
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/BaiThiCSharp.pdb
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/BaiThiCSharp.genruntimeconfig.cache
+/Users/dungdang/c#/GeometryExample/BaiThiCSharp/obj/Debug/net7.0/ref/BaiThiCSharp.dll
